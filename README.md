@@ -1,41 +1,44 @@
-# Online Weather Application
+# 🌤️ Online Weather Application
 
-## Description
-This is a simple online weather application that fetches real-time weather data using the OpenWeather API. Users can enter a city name to check its current weather conditions, including temperature, humidity, and wind speed.
+## 📌 Description
+This is a simple and intuitive online weather application that fetches real-time weather data using the OpenWeather API. Users can enter a city name to check its current weather conditions, including temperature, humidity, and wind speed.
 
-## Features
-- Search for weather by city name
-- Display temperature in Celsius
-- Show humidity and wind speed
-- Display appropriate weather icons based on conditions
-- Handle invalid city inputs with error messages
+## 🚀 Features
+✅ Search for weather by city name  
+✅ Display temperature in Celsius 🌡️  
+✅ Show humidity and wind speed 💨  
+✅ Display appropriate weather icons based on conditions ⛅  
+✅ Handle invalid city inputs with error messages ❌  
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 - OpenWeather API
 
-## Setup Instructions
-1. Clone the repository:
+## 🎥 Live Demo
+🔗 [https://weather-app-main-git-main-kuldip8975s-projects.vercel.app/](#) 
+
+## 🏗️ Setup Instructions
+1. **Clone the repository:**  
    ```bash
    git clone https://github.com/your-repo/weather-app.git
    ```
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**  
    ```bash
    cd weather-app
    ```
-3. Open `index.html` in a browser.
+3. **Open `index.html` in a browser.**  
 
-## API Configuration
-- The application uses OpenWeather API.
+## 🌍 API Configuration
+- The application uses the OpenWeather API.
 - Ensure you have a valid API key from [OpenWeather](https://openweathermap.org/api).
 - Replace the `apiKey` variable in `script.js` with your API key:
   ```js
   const apiKey = "YOUR_API_KEY_HERE";
   ```
 
-## File Structure
+## 📂 File Structure
 ```
 weather-app/
 │-- index.html      # Main HTML file
@@ -44,15 +47,18 @@ weather-app/
 │-- images/         # Weather icons
 ```
 
-## How to Use
+## 📖 How to Use
 1. Enter the city name in the search box.
 2. Click the search button.
 3. View the weather details, including temperature, humidity, and wind speed.
 4. If an invalid city is entered, an error message is displayed.
 
-## Author
-Developed by [Kuldip Mahale].
+## 👤 Author
+Developed by **[Kuldip Mahale]**
 
-## License
-This project is licensed under the MIT License.
+## 📜 License
+This project is licensed under the **MIT License**.
+
+
+
 
